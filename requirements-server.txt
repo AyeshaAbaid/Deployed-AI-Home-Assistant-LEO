@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pymongo
+numpy
+opencv-python-headless
+python-multipart
+requests
+twilio
+joblib
+scikit-learn
